@@ -2,4 +2,5 @@ body{
     background: red;
     font-size: larger;
     font-weight: bolder;
+    padding: 10px;
 }
